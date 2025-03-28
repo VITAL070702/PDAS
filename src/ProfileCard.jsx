@@ -1,12 +1,8 @@
+function ProfileCard(props) {
+    console.log(props)
+  return (
+    <div>ProfileCard2</div>
+  )
+}
 
-function ProfileCard() {
-
-    return (
-      <>
-        <div>Profile Card</div>
-      </>
-    )
-  }
-  
-  export default ProfileCard
-  
+export default ProfileCard
